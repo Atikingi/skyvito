@@ -13,7 +13,7 @@ import {
   User
 } from '../types/types';
 
-export const API_URL = 'http://185.185.71.7:8090/';
+export const API_URL = 'https://main--heroic-sherbet-08fe0f.netlify.app/api/';
 
 axios.defaults.baseURL = API_URL;
 
