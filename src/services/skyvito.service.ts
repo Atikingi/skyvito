@@ -13,7 +13,7 @@ import {
   User
 } from '../types/types';
 
-export const API_URL = 'http://localhost:8090/';
+export const API_URL = 'http://185.185.71.7:8090/';
 
 axios.defaults.baseURL = API_URL;
 
